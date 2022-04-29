@@ -1,0 +1,82 @@
+#white{
+    color: white;
+}
+#black{
+    background-color: 
+    #303030;
+    /* position: fixed; */
+}
+#icon{
+    width: 50px;
+    color: white;
+    margin-left: 7px;
+    
+}
+.ytlogo{
+    width: 100px;
+}
+#search_btn{
+   
+    background-color: rgb(78, 78, 78);
+    color: white;
+    border-radius: 0px;
+    width: 60px;
+}
+#svalue{
+    width: 600px;
+    border-radius: 0px;
+    background-color: #121212;
+    border: black;
+}
+#svalue:focus, #svalue:focus {
+    color: white;
+    
+}
+
+#svalue, select, #svalue{
+    color: #000;
+    
+}
+#mic{
+    color:  white;
+    margin: 0px 250px 0px 0px;
+    border-radius: 20%;
+    width: 20px;
+    background-color: #313131;
+    
+    
+}
+.camara{
+    color: white;
+    margin-right: 20px;
+
+}
+.profile{
+    width: 30px;
+    border-radius: 50%;
+}
+.nav2{
+    /* border: 1px solid red; */
+    width: 100%;
+    height: 50px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #202020;
+    
+    
+}
+.para{
+    
+    /* border: 1px solid red; */
+    width: 70px;
+    width: max-content;
+    text-align: center;   
+    margin: 10px 0px 12px 0px;
+    border-radius: 50px;
+    background-color: 
+    #303030;
+    color: white;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+

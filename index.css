@@ -1,0 +1,199 @@
+#right{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 20px;
+    padding: 20px;
+    overflow-y: hidden;
+    /* border: 1px solid red; */
+    width: 95%;
+    margin:  auto;  
+    margin-left: 70px;
+}
+#search-right{
+
+    padding: 20px;
+    overflow-y: hidden;
+    /* border: 1px solid red; */
+    width: 95%;
+    margin:  auto;  
+    margin-left: 70px;
+}
+.home-bar{
+    /* border: 1px solid red; */
+    width: 70px;
+    height: 1000%;
+    background-color: #303030;
+    /* margin: 0px 0px 100px; */
+    position: absolute;
+    
+    
+}
+
+/* .side-name{ */
+    /* border: 1px solid red; */
+    /* font-size: 13px; */
+    /* font-weight: normal;  */
+    /* margin: 10px 30px 0px 0px ;   */
+/* } */
+
+.side-bar{
+    /* border: 1px solid red; */
+    /* width: 50px; */
+    color: white;
+    height: 60px;
+    margin: 20px 0px 0px 19px
+}
+#vbox{
+   
+    /* border: 1px solid red; */
+    height: 380px;
+
+}
+#vbox:hover{
+    transform: scale(1.2);
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.thubline-div{
+    display: flex;
+    /* border: 1px solid green; */
+    height: 40%;
+}
+.profile-div{
+    width: 20%;
+    height: 40%;
+    /* border: 1px solid yellow; */
+    border-radius: 50%;
+}
+.title-div{
+    width: 80%;
+    height: 100%;
+    /* border: 1px solid red; */
+}
+.profile-img{
+
+    width: 40px;
+   height: 40px;
+    border-radius: 50%;
+    margin-top: 8px;
+    margin-left: 10px;
+    ;
+    
+}
+.title-p{
+    color: white;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.chanel-p{
+    color: grey;
+    margin-top: 2px;
+    font-weight: bold;
+}
+.chanel-i-div{
+    display: flex;
+    /* border: 1px solid yellow; */
+    height: 25px;
+}
+.verification-tic{
+
+    color: gray;
+    margin: 5px 0px 0px 7px;
+    font-size: 13px;
+
+}
+.view-day-div{
+    /* border: 1px solid red; */
+    display: flex;
+    color: gray;
+   
+}
+.main-div{
+    display: flex;
+    /* background-color: white; */
+    /* border: 1px solid red; */
+    width: 100%;
+    height: 200px;
+    margin: 30px 0px 10px 70px;
+}
+.thumbline-div{
+    /* border: 1px solid yellow; */
+    width: 25%;
+    height: 100%;
+}
+.chanelData-div{
+    /* border: 3px solid green; */
+    width: 70%;
+    height: 100%;
+    margin-left: 10px;
+}
+.views-p{
+    color: gray;
+}
+.profile-img2{
+
+    width: 25px;
+   height: 25px;
+    border-radius: 50%;
+    margin-top: 3px;
+    margin-right: 10px;
+    
+    
+}
+.i-img-p-div{
+
+    display: flex;
+}
+.description-p{
+    color: gray;
+}
+
+
+
+/* full screen css............................................. */
+
+
+#full_container{
+    display: flex;
+    width: 95%;
+    /* height: 700px; */
+    margin:0px auto;
+    /* border: 1px solid red; */
+    padding: 2%;
+}
+
+#right_full{
+    /* border: 1px solid red; */
+    width: 100%;
+    /* height: 700px; */
+    /* border: 1px solid red; */
+}
+
+/* #left_full{
+    width: 30%;
+    margin-left: 30px;
+    /* height: 700px; */
+    /* border: 1px solid red; */
+/* } */ 
+
+.view_div_full{
+    display: flex;
+    margin-top: 10px;
+}
+.day-p{
+    color: gray;
+
+}
+.title-p{
+    margin-top: 10px;
+}
+#Hr{
+    width: 100%;
+    height: 1px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: gray;
+  }
+  .profile-img_full{
+   width: 50px;
+    border-radius: 50%;
+  }
